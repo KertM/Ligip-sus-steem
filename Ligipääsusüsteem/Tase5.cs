@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class Tase5 : Tase3
+    class Tase5 : Tase1
+        // siin ma teen selle koristajale
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class VanemArendaja
+    class VanemArendaja : Tase4
     {
     }
 }
