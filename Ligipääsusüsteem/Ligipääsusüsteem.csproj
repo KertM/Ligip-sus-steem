@@ -42,8 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Andmetöötaja.cs" />
+    <Compile Include="Koristaja.cs" />
+    <Compile Include="NooremArendaja.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpetsiaalKoristaja.cs" />
+    <Compile Include="Tase1.cs" />
+    <Compile Include="Tase2.cs" />
+    <Compile Include="Tase3.cs" />
+    <Compile Include="Tase4.cs" />
+    <Compile Include="Tase5.cs" />
+    <Compile Include="VanemArendaja.cs" />
+    <Compile Include="Ülemus.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
