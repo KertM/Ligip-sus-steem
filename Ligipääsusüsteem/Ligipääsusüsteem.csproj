@@ -52,7 +52,7 @@
     <Compile Include="Tase2.cs" />
     <Compile Include="Tase3.cs" />
     <Compile Include="Tase4.cs" />
-    <Compile Include="Tase5.cs" />
+    <Compile Include="Tase4B.cs" />
     <Compile Include="VanemArendaja.cs" />
     <Compile Include="Ülemus.cs" />
   </ItemGroup>

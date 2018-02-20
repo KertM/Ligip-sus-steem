@@ -8,5 +8,10 @@ namespace Ligipääsusüsteem
 {
     class VanemArendaja : Tase4
     {
+        public bool PeaUks = true;
+        public bool Köök = true;
+        public bool Arendajateruum = true;
+        public bool Andmetöötajateruum = true;
+        public bool Ülemusteruum = true;
     }
 }

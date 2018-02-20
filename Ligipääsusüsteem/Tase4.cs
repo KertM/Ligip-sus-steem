@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class Tase4 : Tase1
-        //kuna ma ei saa kasutada mitu pärilikust kirjutan ma siin ümber 2 ja 3 asjad
+    class Tase4
     {
+        public bool PeaUks = true;
+        public bool Köök = true;
+        public bool Arendajateruum = true;
+        public bool Andmetöötajateruum = true;
+        public bool Ülemusteruum = true;
     }
 }

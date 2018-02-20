@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class Andmetöötaja
+    class Andmetöötaja : Tase3
     {
     }
 }

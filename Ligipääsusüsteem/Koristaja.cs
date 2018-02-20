@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class Koristaja : Tase5
+    class Koristaja : Tase4B
     {
     }
 }

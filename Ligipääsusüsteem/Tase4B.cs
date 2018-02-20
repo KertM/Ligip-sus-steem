@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Ligipääsusüsteem
 {
-    class Tase5 : Tase1
+    class Tase4B
         // siin ma teen selle koristajale
     {
+        public bool PeaUks = true;
+        public bool Köök = true;
+        public bool Arendajateruum = true;
+        public bool Andmetöötajateruum = true;
+        public bool Ülemusteruum = false;
     }
 }
